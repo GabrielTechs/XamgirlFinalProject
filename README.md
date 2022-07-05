@@ -1,7 +1,6 @@
 # NewBee
-## Mobile App
 
-The NewBee app is for new students of INTEC, it counts with a Page for the current courses he is taking and the respective schedule. It also have a Detail page for the courses with all the information you need and that page have two buttons one of them can take you to a map of the institute and the other one takes you to a directory of phones of the diferent areas inside the institute (and you can even speed dial :D).
+The NewBee mobile app is for new students of INTEC, it counts with a Page for the current courses he is taking and the respective schedule. It also have a Detail page for the courses with all the information you need and that page have two buttons one of them can take you to a map of the institute and the other one takes you to a directory of phones of the diferent areas inside the institute (and you can even speed dial :D).
 
 ## LoginPage
 This is the login page with two entrys (ID and Password) for Sign in and two clickable label one fore RegistrePage and the other one for the ForgottenPasswordPage.
